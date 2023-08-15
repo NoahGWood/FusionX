@@ -918,7 +918,7 @@
     (uuid fb889835-0a03-4bb0-9087-672e16d8cbf5)
   )
 
-  (text_box "TODO:\n	Find MUX/DEMUX for USB 3.0\n	"
+  (text_box "TODO:\n	Find MUX/DEMUX for USB 3.0\n	3.3v Regulator"
     (at 107.95 95.25 0) (size 109.855 53.34)
     (stroke (width 0) (type default))
     (fill (type none))

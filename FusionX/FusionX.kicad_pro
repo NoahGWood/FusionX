@@ -333,7 +333,15 @@
     ],
     [
       "953b7216-50cc-40eb-ab7b-5f8724bf32ad",
-      "LCD"
+      "RaspiLCD"
+    ],
+    [
+      "cc596c66-0287-4740-9ece-2b1e4f18f9fd",
+      "OtherLCD"
+    ],
+    [
+      "03c49adf-7448-4a15-a459-56af1b934d86",
+      "RF"
     ]
   ],
   "text_variables": {}
