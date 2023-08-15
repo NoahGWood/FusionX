@@ -4,6 +4,17 @@
 
   (paper "A4")
 
+  (title_block
+    (title "FusionX")
+    (date "2023-08-15")
+    (rev "1")
+    (company "NoahGWood")
+    (comment 1 "License: The Unlicense")
+    (comment 2 "twitch.tv/u/noahgwood")
+    (comment 3 "Developed Live On:")
+    (comment 4 "SC600Y Based Smartphone")
+  )
+
   (lib_symbols
     (symbol "Connector_Generic:Conn_01x22" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 27.94 0)
