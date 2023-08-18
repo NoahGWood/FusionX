@@ -2240,7 +2240,7 @@
     (uuid f9e11d90-9ac1-4990-96a5-7af16eb4a573)
   )
 
-  (text_box "TODO:\n	[ ] Microphone\n	[ ] Speaker(s)\n	[ ] Headphone Jack\n	[X] Antennas\n	[X] USB-C 3.0\n	[ ] uSIM\n	[ ] SD Card\n	[X] Main LCD\n	[ ] Front Camera\n	[ ] Rear Camera\n	[ ] *Depth Camera\n	[ ] *Secondary Screen\n	[X] Capacitive Touch\n	[ ] Ambient Light Sensor\n	[ ] Accelerometer\n	[ ] Compass"
+  (text_box "TODO:\n	[ ] Microphone\n	[ ] Speaker(s)\n	[ ] Headphone Jack\n	[ ] uSIM\n	[ ] SD Card\n	[ ] Front Camera\n	[ ] Rear Camera\n	[ ] *Depth Camera\n	[ ] Ambient Light Sensor\n	[ ] Accelerometer\n	[ ] Compass\n	[X] *Secondary Screen\n	[X] Main LCD\n	[X] Capacitive Touch\n	[X] Antennas\n	[X] USB-C 3.0\n"
     (at 167.64 47.625 0) (size 66.675 72.39)
     (stroke (width 0) (type default))
     (fill (type none))

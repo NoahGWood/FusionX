@@ -1,9 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "deeznutz")(type "KiCad")(uri "/home/noah/Desktop/KiCADv6/2023-08-13_07-41-40.kicad_sym")(options "")(descr ""))
-  (lib (name "deeznutz2.0")(type "KiCad")(uri "/home/noah/Desktop/KiCADv6/2023-08-15_17-24-46.kicad_sym")(options "")(descr ""))
-  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
-  (lib (name "2023-08-17_21-39-27")(type "KiCad")(uri "/home/noah/Desktop/KiCADv6/2023-08-17_21-39-27.kicad_sym")(options "")(descr ""))
-  (lib (name "2023-08-17_23-46-30")(type "KiCad")(uri "/home/noah/Desktop/KiCADv6/2023-08-17_23-46-30.kicad_sym")(options "")(descr ""))
-  (lib (name "2023-08-17_23-57-59")(type "KiCad")(uri "/home/noah/Desktop/KiCADv6/2023-08-17_23-57-59.kicad_sym")(options "")(descr ""))
-)
