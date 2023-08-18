@@ -243,7 +243,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "Phone"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
@@ -342,6 +344,10 @@
     [
       "03c49adf-7448-4a15-a459-56af1b934d86",
       "RF"
+    ],
+    [
+      "7b5b6bfd-e0a7-47ff-89fe-4319d6f2504d",
+      "USB"
     ]
   ],
   "text_variables": {}

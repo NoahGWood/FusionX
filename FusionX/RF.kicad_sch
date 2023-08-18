@@ -4,6 +4,17 @@
 
   (paper "A4")
 
+  (title_block
+    (title "FusionX")
+    (date "2023-08-17")
+    (rev "1")
+    (company "NoahGWood")
+    (comment 1 "License: The Unlicense")
+    (comment 2 "twitch.tv/u/noahgwood")
+    (comment 3 "Developed Live On:")
+    (comment 4 "SC600Y Based Smartphone")
+  )
+
   (lib_symbols
     (symbol "Device:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 0.254 1.778 0)
@@ -510,8 +521,8 @@
     (property "Datasheet" "~" (at 185.293 100.711 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 677bdf19-7962-4259-8437-2c5061d35084))
-    (pin "2" (uuid 581c86be-35a8-4fe6-8278-7f00cc90e4c9))
+    (pin "1" (uuid a8f94ffe-43f6-465e-bc45-84ccd76727a2))
+    (pin "2" (uuid 322b77ee-c77a-418c-ba21-cc9269d10b25))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -536,8 +547,8 @@
     (property "Datasheet" "~" (at 75.565 122.555 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1177ed35-a98b-4ba1-a887-05dad1e81910))
-    (pin "2" (uuid 883902fd-d045-4b6e-949d-705ca8eda4e3))
+    (pin "1" (uuid a74f2137-5ca0-478c-96e6-6abe73dcd52a))
+    (pin "2" (uuid beb590fe-2f07-4f90-85c6-68d9449a74b3))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -587,8 +598,8 @@
     (property "Datasheet" "~" (at 70.485 122.555 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6c44f38d-a3ef-4da5-8b17-24f6fea4c297))
-    (pin "2" (uuid b8b9a9dc-8ec4-47bf-97a7-650c264036b9))
+    (pin "1" (uuid 348df804-734b-4ff3-80b7-2e3d08c851ff))
+    (pin "2" (uuid 4d707a54-74ba-47ad-a797-08334100391e))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -613,8 +624,8 @@
     (property "Datasheet" "~" (at 151.003 100.711 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8b3121da-1900-4b7c-a3e0-38d0f82a3dde))
-    (pin "2" (uuid 9dd32e96-be55-4586-b2f7-6b98c4af9748))
+    (pin "1" (uuid 6e49ede7-4ecf-413c-b41c-fdbbe97f5ecb))
+    (pin "2" (uuid 27ab2051-087b-46aa-9857-8717bc4fa4a1))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -639,8 +650,8 @@
     (property "Datasheet" "~" (at 190.373 100.711 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9b8fc200-fc3d-40df-a462-c420d39c73fe))
-    (pin "2" (uuid df6eafb4-b14d-41f6-9c4d-d438e61a970f))
+    (pin "1" (uuid 131f15d6-dc89-4779-9cb1-9bd8a9a1cfe2))
+    (pin "2" (uuid 3b3190e3-10de-4d64-b825-5083fc6d809c))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -690,8 +701,8 @@
     (property "Datasheet" "~" (at 75.565 99.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 479dfa74-e78a-4896-a26c-3991d8ef1e32))
-    (pin "2" (uuid 0026b481-6b27-4937-bb06-6e4ef671d268))
+    (pin "1" (uuid 377de76f-ca5f-4b76-8eb6-58f15e770e25))
+    (pin "2" (uuid 1413ee38-001f-4411-93b8-a2603f5730c3))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -716,7 +727,7 @@
     (property "Datasheet" "U.FL-R-SMT-110" (at 81.915 97.155 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (pin "1" (uuid 0c595ffd-fbd1-4640-b500-323b6a3a7f5b))
+    (pin "1" (uuid cdb91894-e8bc-41c6-8f45-bc48efc0f8e9))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -766,8 +777,8 @@
     (property "Datasheet" "~" (at 73.025 97.155 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a6e59286-154d-4c73-b843-3fb6f71ad61e))
-    (pin "2" (uuid 9c62eaac-d601-4364-a97e-72d71db034f0))
+    (pin "1" (uuid 9352a3ff-0ff0-477c-931f-31d5626e5099))
+    (pin "2" (uuid c74b5505-8947-40a1-b7fe-bb764e642fa9))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -792,8 +803,8 @@
     (property "Datasheet" "~" (at 148.463 98.171 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 36199cf9-6bff-4a2c-8d81-ac2d4319964b))
-    (pin "2" (uuid 91206bd8-36aa-4936-815f-e0cbaad09000))
+    (pin "1" (uuid c65a97e8-b6cb-48d5-9337-9c6596066c66))
+    (pin "2" (uuid ac2d3aad-71c1-4dff-b8db-1e1cdca29912))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -818,8 +829,8 @@
     (property "Datasheet" "~" (at 73.025 120.015 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9ff3e709-dfd6-413f-ba7f-5a7618b000e2))
-    (pin "2" (uuid 10fe592c-f4f6-467a-bf5c-f074e2341939))
+    (pin "1" (uuid b8eb71b7-e295-46c6-962b-1208c0e358d5))
+    (pin "2" (uuid be3d2120-9dcc-4748-b37b-512cd4c8195c))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -844,8 +855,8 @@
     (property "Datasheet" "~" (at 145.923 100.711 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 58c3ee63-be1e-42c8-b6f1-89087cbbceb8))
-    (pin "2" (uuid 25b5e799-9d42-4b53-acb9-cceee55bdd6f))
+    (pin "1" (uuid 2e2b8492-72a6-4535-aa9a-36b4ac4ed146))
+    (pin "2" (uuid 745d3a0e-10ae-4d7f-abaa-664406b31ad2))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -895,8 +906,8 @@
     (property "Datasheet" "~" (at 112.395 97.155 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 505c9c84-6e7c-4289-bfcc-928548153a26))
-    (pin "2" (uuid 816246a8-efb2-42c8-8ddb-9c558e32a94c))
+    (pin "1" (uuid e9d0792c-4787-4e84-bc69-bce35d82ed04))
+    (pin "2" (uuid 3161eac5-917a-4048-a69e-8773c9da5956))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -921,7 +932,7 @@
     (property "Datasheet" "U.FL-R-SMT-110" (at 94.615 120.015 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (pin "1" (uuid 3f35bcbf-af44-44e8-825e-f26c5584b64e))
+    (pin "1" (uuid 0bdeb6a9-c9a9-4b6f-b294-85b7cb49856f))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -946,7 +957,7 @@
     (property "Datasheet" "U.FL-R-SMT-110" (at 121.285 97.155 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (pin "1" (uuid cd501f93-3f1d-4925-bf6a-93e82603c022))
+    (pin "1" (uuid d59a2216-5017-4860-a85d-7c9698771fde))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -971,8 +982,8 @@
     (property "Datasheet" "~" (at 114.935 99.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 850d1cfe-ae7f-4343-81df-284ef7767712))
-    (pin "2" (uuid b53531d7-eb6f-4c48-8280-166480a218cd))
+    (pin "1" (uuid bb06a52b-057a-41cc-ac7b-999b985daa88))
+    (pin "2" (uuid af2f0e48-a5b8-42c9-81b0-0d05a3e350e9))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -997,8 +1008,8 @@
     (property "Datasheet" "~" (at 109.855 99.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a02ad248-73e2-4d96-8ed4-e43a23d65293))
-    (pin "2" (uuid c18fb6c6-6d85-4df8-8807-114f43bef392))
+    (pin "1" (uuid f49f2404-777c-4660-9984-28d9945dd7cb))
+    (pin "2" (uuid 0d3151ad-4438-45f1-831f-40c53a8d5726))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -1048,8 +1059,8 @@
     (property "Datasheet" "~" (at 187.833 98.171 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d7781b80-44ef-469d-af5a-6bda4c83e424))
-    (pin "2" (uuid 5e84cbe0-f3a5-4e8f-8e66-4d9936aa626b))
+    (pin "1" (uuid 3c214973-03b0-4d2e-9475-acc8ada89c81))
+    (pin "2" (uuid b91ad365-e605-42a0-b662-5f2aef330aaa))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -1124,8 +1135,8 @@
     (property "Datasheet" "~" (at 70.485 99.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b5ae56e1-4c65-4c2b-be46-ec38e48b0af9))
-    (pin "2" (uuid 9f5f74f0-c6f0-44ef-889f-37db0c7e2a49))
+    (pin "1" (uuid ff0a9526-4f57-4bbc-8193-c56575a54786))
+    (pin "2" (uuid 75fc0b57-456a-4854-a90b-81f614ef33a2))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -1150,7 +1161,7 @@
     (property "Datasheet" "U.FL-R-SMT-110" (at 196.723 98.171 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (pin "1" (uuid 1cfadfe3-6d4c-471c-88c3-c1d047f9852d))
+    (pin "1" (uuid c657575e-e011-420e-9a05-4fa7a748a2b5))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -1178,8 +1189,8 @@
     (property "LCSC#" "C1790" (at 86.995 120.015 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5f472eff-3c6f-4fc7-bcd1-b70633dd8555))
-    (pin "2" (uuid 8a3eac11-07f8-42f4-a918-eb5a68cb26f9))
+    (pin "1" (uuid 84a2fd91-2b95-4491-84ff-4e2f7f7fa743))
+    (pin "2" (uuid af5b57cb-7c80-45e8-a169-c4f4cfd7e5c6))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
@@ -1204,7 +1215,7 @@
     (property "Datasheet" "U.FL-R-SMT-110" (at 157.353 98.171 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (pin "1" (uuid 1493737f-e9bf-4a75-8c9a-584aeb6b5b37))
+    (pin "1" (uuid 653627d6-0d74-4147-a706-0683b54771d7))
     (instances
       (project "FusionX"
         (path "/91d1c248-6dd5-47d7-a0ee-1ed6541bbbfb/03c49adf-7448-4a15-a459-56af1b934d86"
